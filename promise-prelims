@@ -1,0 +1,3 @@
+// Create a promise 
+
+let p = new Promise
